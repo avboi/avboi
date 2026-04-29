@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on<br>🌱 I’m currently learning Spring boot<br>💬 Ask me about Python, Java and Linux
+👯 I’m looking to collaborate on<br>🌱 I’m currently learning ASP.NET Core and RESTful API<br>💬 Ask me about Python, Java and Linux
 
 
 ## 🌐 Socials:
